@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me - Croscoboy#4717 (on discord)
+- 📫 How to reach me - contact.crosco@gmail.com
 
 <!---
 croscopal/croscopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
